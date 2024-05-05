@@ -69,7 +69,7 @@ body {
 
 .banner {
   background: linear-gradient(rgba(19, 19, 24, 0.8), rgba(19, 19, 24, 0)),
-    url(/assets/banner.jpg);
+    url(./assets/banner.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -304,7 +304,7 @@ body {
 }
 .main-card-one {
   position: relative;
-  background-image: url(/assets/firstandthird.jpg);
+  background-image: url(./assets/firstandthird.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -314,7 +314,7 @@ body {
 }
 .main-card-two {
   position: relative;
-  background-image: url(/assets/second.jpg);
+  background-image: url(./assets/second.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -477,7 +477,7 @@ body {
   font-weight: 800;
 }
 .last-s-img {
-  background-image: url(/assets/group1.png);
+  background-image: url(./assets/group1.png);
   width: 600px;
   height: 422px;
   background-repeat: no-repeat;
